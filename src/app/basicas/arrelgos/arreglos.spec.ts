@@ -10,7 +10,7 @@ describe('Pruebas de arreglos', ()=> {
 
   })
 
-  it('Debe existir Megaman y Ultron', ()=>{
+  xit('Debe existir Megaman y Ultron', ()=>{
 
     const res = obtenerRobots();
 
